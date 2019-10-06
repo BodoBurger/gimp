@@ -1,9 +1,9 @@
 # GIMP gimp-vector-tool options
 
-(brush "2. Hardness 050")
-(dynamics "Dynamics Off")
+(brush "2. Hardness 025")
+(dynamics "Pressure Opacity")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
-(palette "Color History")
+(palette "Default")
 
 # end of gimp-vector-tool options
