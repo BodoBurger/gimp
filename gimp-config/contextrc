@@ -1,13 +1,13 @@
 # GIMP user context
 
-(tool "gimp-heal-tool")
-(paint-info "gimp-heal")
-(brush "2. Hardness 050")
-(dynamics "Dynamics Off")
-(mybrush "100% Opaque")
+(tool "gimp-move-tool")
+(paint-info "gimp-paintbrush")
+(brush "2. Hardness 025")
+(dynamics "Pressure Opacity")
+(mybrush "blend+paint")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
-(palette "Color History")
+(palette "Default")
 (font "Sans-serif")
 (tool-preset "Core Pointer")
 
