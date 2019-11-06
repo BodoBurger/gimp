@@ -1,4 +1,6 @@
-# gimp
+# [gimp](https://www.gimp.org/)
+
+- [Documentation](https://docs.gimp.org)
 
 ## Installation
 
