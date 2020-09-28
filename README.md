@@ -10,6 +10,10 @@ Via [snap](https://snapcraft.io/gimp):
 sudo snap install gimp
 ```
 
+## Personal folder
+
+Windows: `C:/Users/%USERNAME%/AppData/Roaming/Gimp/2.10`
+
 ## Plugins
 
 Copy to:
